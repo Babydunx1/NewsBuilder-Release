@@ -19,5 +19,8 @@
     ],
     "app_status": "active",
     "blacklist": [],
+    "developer_ids": [
+        "A7DA-A6F6-1A4E-49FB"
+    ],
     "lock_message": "License Key ของคุณถูกระงับการใช้งาน\nกรุณาติดต่อ Support เพื่อตรวจสอบครับ"
 }
