@@ -1,9 +1,9 @@
 {
-    "version": "1.2.8",
-    "download_url_windows": "https://github.com/Babydunx1/AutoLab-Release/releases/download/updateAL1.2.9/AutoLab_Setup.exe",
-    "download_url_mac": "https://github.com/Babydunx1/AutoLab-Release/releases/download/updateAL1.2.9/AutoLab_Mac_Beta.zip",
+    "version": "1.3.0",
+    "download_url_windows": "https://github.com/Babydunx1/AutoLab-Release/releases/download/updateAL1.3.0/AutoLab_Setup.exe",
+    "download_url_mac": "https://github.com/Babydunx1/AutoLab-Release/releases/download/updateAL1.3.0/AutoLab_Mac_Beta.zip",
     "notes": [
-        "✔️ ล็อคอินผ่านอีเมล สำหรับสมาชิกเรา (v1.2.9)",
+        "✔️ ล็อคอินผ่านอีเมล สำหรับสมาชิกเรา (v1.3.0)",
         "",
         "Auto Highlights MAJOR UPDATE (v1.2.8)",
         "  • [NEW] 🤖 เพิ่มโมเดล 'Gemini 3.1 Flash-Lite' แนะนำให้ใช้",
